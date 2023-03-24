@@ -1,0 +1,6 @@
+[submodule "FoodBank_Contracts"]
+	path = FoodBank_Contracts
+	url = https://github.com/Balavamsi1999/FoodBank_Contracts.git
+[submodule "FoodBank_UI"]
+	path = FoodBank_UI
+	url = https://github.com/Balavamsi1999/FoodBank_UI.git
